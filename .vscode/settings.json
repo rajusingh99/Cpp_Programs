@@ -1,0 +1,15 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "numeric": "cpp",
+        "regex": "cpp",
+        "type_traits": "cpp",
+        "new": "cpp",
+        "unordered_map": "cpp",
+        "iomanip": "cpp"
+    }
+}
